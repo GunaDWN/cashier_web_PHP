@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+fieldset {
+	border: 2px dashed white;
+	display: inline-block;
+	font-size: 20px;
+	font-family:"Optima", Times New Roman, Times, serif;
+	padding: 1em 2em;
+}
+
+legend {
+	color: white;
+	margin-bottom: 10px;
+	padding: 0.5em 1em;
+	background-color: black;
+}
+
